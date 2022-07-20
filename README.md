@@ -1,10 +1,13 @@
 
 
-    
+<div align="center">
+<img src="https://media.giphy.com/media/588BccbSfHjvntvps6/giphy-downsized.gif" title="HTML5" alt="HTML" width="500" height="300">
+</div>
+
 --- 
 
 ###    <h1 align="center">Frontend Developer</h1>
- ###   <h2>1N73LL1G3NC3 15 7H3 4B1L17Y 70 4D4P7 70 CH4NG3. -573PH3N H4WK1NG</h2>
+###   <h2>1N73LL1G3NC3 15 7H3 4B1L17Y 70 4D4P7 70 CH4NG3. -573PH3N H4WK1NG</h2>
  
 
 ### 😄 About Me :
@@ -15,9 +18,6 @@
 - 📫 How to reach me: lucas.lobos12@gmail.com
 - ⚡ CRIPTOLOVER.
 -->
-
-  
-    
     
 --- 
 <div align="left">
@@ -32,4 +32,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40">
 </div>
+<img src="https://media.giphy.com/media/588BccbSfHjvntvps6/giphy.gif" alt="">
 </div>
