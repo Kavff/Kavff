@@ -12,9 +12,9 @@
 
 ### 😄 About Me :
 -  I'm a passionate web developer from Canada.
-- 🌱 I’m currently learning **React.js,Blockchain,Web3**
+- 🌱 I’m currently learning **React.js, Blockchain, Web3**
 - 👯 I’m looking to collaborate in any project that you propose to me**
-- 💬 Ask me about ** Javascript,Java,Spring Boot,HTML,CSS,Criptocurrency,Blockchain,A0 **
+- 💬 Ask me about ** Javascript,Java,Spring Boot, HTML, CSS, Criptocurrency, Blockchain,A0 **
 - 📫 How to reach me: lucas.lobos12@gmail.com
 - ⚡ CRIPTOLOVER.
 -->
