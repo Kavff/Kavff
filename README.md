@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Kavff/Kavff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
 
-Here are some ideas to get you started:
+    <img src="https://media.giphy.com/media/588BccbSfHjvntvps6/giphy.gif" alt="">
+    <h1 align="center">Frontend developer</h1>
+    <h3 align="center">A passionate web developer from Canada. </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+</div>
+
+---
+
+### 😄 About Me
+
+- 🌱 I’m currently learning **React.js,Blockchain,Web3**
+- 👯 I’m looking to collaborate in any project that you propose to me**
+- 💬 Ask me about ** JS,criptocurrency, A0 **
+- 📫 How to reach me: lucas.lobos12@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
