@@ -11,9 +11,9 @@
  
 
 ### 😄 About Me :
--  I'm a passionate web developer from Canada.
-- 🌱 I’m currently learning **React.js, Blockchain, Web3**
-- 👯 I’m looking to collaborate in any project that you propose to me**
+-  I'm a passionate front-end developer from Toronto, Canada.
+- 🌱 I’m currently learning **Cloud Computing (AWS), Blockchain, Web3**
+- 👯 I would like to participate in challenging projects related to Web2 and Web3**
 - 💬 Ask me about ** React Js, Javascript, HTML, CSS, Criptocurrency, Blockchain,A0 **
 - 📫 How to reach me: lucas.lobos12@gmail.com
 - ⚡ CRIPTOLOVER.
